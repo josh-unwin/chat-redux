@@ -1,7 +1,12 @@
+@import url(./message_area.scss);
+@import url(./channel_list.scss);
+
 body {
   font-family: Helvetica;
 }
 .app {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  // margin-top: 20px;
+  // margin-bottom: 20px;
+  display: flex;
+  min-height: 100vh
 }

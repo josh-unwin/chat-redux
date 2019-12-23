@@ -1,0 +1,18 @@
+.channel_list {
+  background-color: gray;
+  width: 20%;
+  padding: 20px;
+  height: 100vh;
+  position: sticky;
+  top: 0
+}
+
+ .channel_list > .channel-item {
+    font-size: 15px;
+    padding: 5px 0px;
+    color: white
+  }
+
+.selected_channel {
+  font-weight: bold;
+}
